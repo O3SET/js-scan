@@ -25,3 +25,8 @@ python scanner.py --file path/to/file.js --format xml --output report.xml
 扫描目录并生成 HTML 报告：
 
 python scanner.py --dir path/to/dir --format html --output report.html
+
+
+报告示例：
+
+![image](https://github.com/user-attachments/assets/68bd17ec-feec-4416-8901-d22bda48d128)
