@@ -88,6 +88,7 @@ def generate_html_report(vulnerabilities, output_file):
     template = Template("""
     <html>
     <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <title>漏洞报告</title>
         <style>
             body { font-family: Arial, sans-serif; margin: 40px; }
